@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],""]
+3:T13e2,<p><strong>Strata United</strong> is committed to providing quality services to you and this policy outlines our ongoing obligations to you in respect of how we manage your Personal Information.</p>
+<p>We have adopted the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The NPPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information.</p>
+<p>A copy of the Australian Privacy Principles may be obtained from the website of The Office of the Australian Information Commissioner at <a href="http://www.aoic.gov.au">www.aoic.gov.au</a></p>
+<h2>What is Personal Information and why do we collect it?</h2>
+<p>Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we collect include: names, addresses, email addresses, phone and facsimile numbers.</p>
+<p>This Personal Information is obtained in many ways including by telephone, email, via our website forms on <a href="/">www.strataunited.com.au</a> and other application or third parties platforms integrated with our system. We don’t guarantee website links or policy of authorised third parties.</p>
+<p>We collect your Personal Information for the primary purpose of providing our services to you, providing information to our clients and marketing. We may also use your Personal Information for secondary purposes closely related to the primary purpose, in circumstances where you would reasonably expect such use or disclosure. You may unsubscribe from our mailing/marketing lists at any time by contacting us in writing.</p>
+<p>When we collect Personal Information we will, where appropriate and where possible, explain to you why we are collecting the information and how we plan to use it.</p>
+<h2>Sensitive Information</h2>
+<p>Sensitive information is defined in the Privacy Act to include information or opinion about such things as an individual&#39;s racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a trade union or other professional body, criminal record or health information.</p>
+<p>Sensitive information will be used by us only:</p>
+<ul>
+<li>For the primary purpose for which it was obtained</li>
+<li>For a secondary purpose that is directly related to the primary purpose</li>
+<li>With your consent; or where required or authorised by law.</li>
+</ul>
+<h2>Third Parties</h2>
+<p>Where reasonable and practicable to do so, we will collect your Personal Information only from you. However, in some circumstances we may be provided with information by third parties. In such a case we will take reasonable steps to ensure that you are made aware of the information provided to us by the third party.</p>
+<h2>Disclosure of Personal Information</h2>
+<p>Your Personal Information may be disclosed in a number of circumstances including the following:</p>
+<ul>
+<li>Third parties where you consent to the use or disclosure; and</li>
+<li>Where required or authorised by law.</li>
+</ul>
+<h2>Security of Personal Information</h2>
+<p>Your Personal Information is stored in a manner that reasonably protects it from misuse and loss and from unauthorized access, modification or disclosure.</p>
+<p>When your Personal Information is no longer needed for the purpose for which it was obtained, we will take reasonable steps to destroy or permanently de-identify your Personal Information. However, most of the Personal Information is or will be stored in client files which will be kept by us for a minimum of 7 years.</p>
+<h2>Access to your Personal Information</h2>
+<p>You may access the Personal Information we hold about you and to update and/or correct it, subject to certain exceptions. If you wish to access your Personal Information, please contact us in writing.</p>
+<p><strong>Strata United</strong> will not charge any fee for your access request, but may charge an administrative fee for providing a copy of your Personal Information.</p>
+<p>In order to protect your Personal Information we may require identification from you before releasing the requested information.</p>
+<h2>Maintaining the Quality of your Personal Information</h2>
+<p>It is an important to us that your Personal Information is up to date. We will take reasonable steps to make sure that your Personal Information is accurate, complete and up-to-date. If you find that the information we have is not up to date or is inaccurate, please advise us as soon as practicable so we can update our records and ensure we can continue to provide quality services to you.</p>
+<h2>Policy Updates</h2>
+<p>This Policy may change from time to time and is available on our website.</p>
+<h2>Privacy Policy Complaints and Enquiries</h2>
+<p>If you have any queries or complaints about our Privacy Policy please contact us at:</p>
+<p><strong>Level 1/31a Fennell Street, Parramatta NSW 2150</strong></p>
+<p><strong><a href="mailto:info@strataunited.com.au">info@strataunited.com.au</a></strong></p>
+<p><strong>1300 445 900</strong></p>
+6:X
+b:X
+b:C
+0:{"buildId":"aq9YhRsqn70XW5qR2-pGk","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"hero","aria-labelledby":"page-title","children":["$","div",null,{"className":"container","children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"breadcrumbs","children":["$","ol",null,{"role":"list","children":[["$","li","/-0",{"children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","svg",null,{"className":"icon breadcrumbs__separator","width":16,"height":16,"viewBox":"0 -960 960 960","fill":"currentColor","focusable":"false","aria-hidden":true,"children":[null,["$","path",null,{"d":"M536.92-480.62 358.77-659.15q-7.08-6.7-6.77-15.81.31-9.12 7.39-16 7.07-6.89 16.3-6.89t16.31 7.08l189.92 189.92q4.62 4.62 6.81 9.43 2.19 4.8 2.19 10.61T588.73-470q-2.19 5-6.81 9.62L391.38-269.85q-6.69 6.7-15.8 6.58-9.12-.12-16.19-7.19-7.08-7.08-7.08-16.31 0-9.23 7.08-16.31l177.53-177.54Z"}]]}]]}],["$","li","/privacy-policy-1",{"children":["$","span",null,{"aria-current":"page","children":"Privacy policy"}]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.strataunited.com.au\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Privacy policy\",\"item\":\"https://www.strataunited.com.au/privacy-policy\"}]}"}}]],["$","div",null,{"className":"hero__body","children":[["$","div",null,{"className":"hero__text","children":[["$","p",null,{"className":"eyebrow","children":"Privacy"}],["$","h1",null,{"id":"page-title","className":"d1","children":"Privacy policy"}],null,null]}],"$undefined"]}],null,"$undefined"]}]}],["$","section",null,{"className":"section section--joined","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}]}]}]],null,"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"}],"isUpgradeableISRFallback":false,"a":"$@c","rootVaryParams":null,"needsRuntimeRequest":"$@d"}
+e:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"MetadataBoundary"]
+13:I[27201,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"IconMark"]
+14:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"default"]
+15:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"default"]
+4:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+7:["$","$1","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#041D3C"}]]}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy Policy | Strata United"}],["$","meta","1",{"name":"description","content":"How Strata United collects, uses and protects the personal information you provide through this website."}],["$","meta","2",{"name":"application-name","content":"Strata United"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest"}],["$","link","4",{"rel":"canonical","href":"https://www.strataunited.com.au/privacy-policy/"}],["$","meta","5",{"property":"og:title","content":"Privacy Policy | Strata United"}],["$","meta","6",{"property":"og:description","content":"How Strata United collects, uses and protects the personal information you provide through this website."}],["$","meta","7",{"property":"og:url","content":"https://www.strataunited.com.au/privacy-policy/"}],["$","meta","8",{"property":"og:site_name","content":"Strata United"}],["$","meta","9",{"property":"og:locale","content":"en_AU"}],["$","meta","10",{"property":"og:image","content":"https://www.strataunited.com.au/og-image-1200x630.jpg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Strata United"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Privacy Policy | Strata United"}],["$","meta","17",{"name":"twitter:description","content":"How Strata United collects, uses and protects the personal information you provide through this website."}],["$","meta","18",{"name":"twitter:image","content":"https://www.strataunited.com.au/og-image-1200x630.jpg"}],["$","link","19",{"rel":"icon","href":"/favicon.ico","sizes":"32x32"}],["$","link","20",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link","21",{"rel":"apple-touch-icon","href":"/apple-touch-icon-180.png"}],["$","$L13","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+9:["$","$1","c",{"children":[null,["$","$L14",null,{"parallelRouterKey":"children","template":["$","$L15",null,{}]}]]}]
+d:true
+10:null
+6:300
+6:C
+c:0
+8:"$undefined"
+a:"$undefined"
+5:"$undefined"

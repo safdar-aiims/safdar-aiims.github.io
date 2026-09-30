@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],""]
+3:T3545,<p>The responsibility of managing a strata property falls on these three decision-makers: the strata manager, building manager, and the Owners Corporation.</p>
+<p>In New South Wales, these decision-makers are guided by the Strata Schemes Management Act of 2015, which outlines who is responsible for governance, maintenance, financial oversight, and day-to-day operations.</p>
+<p>Want to understand how strata property management works? Curious about the strata community obligations necessary for maintaining buildings to their highest standards?</p>
+<p>Read more below:</p>
+<h2>The Roles in NSW Strata Management</h2>
+<h3>What is strata management?</h3>
+<p>Strata management refers to the coordination of governance, maintenance, financial administration, and compliance within a strata-titled property.</p>
+<p>The Strata Schemes Management Act of 2015 sets the framework for how strata managers, Owners Corporations, and committees must operate</p>
+<p>Under New South Wales strata management, the Owners Corporation has overall authority, but many everyday obligations are delegated to professional strata managers through an agreed agency agreement.</p>
+<p><strong>Why is this arrangement necessary?</strong></p>
+<p>It ensures that the important functions (e.g. financial oversight, insurance, meeting management, and maintenance coordination) are handled by qualified professionals who understand the complexities of strata title management.</p>
+<p>If you want a deeper explanation on how these responsibilities work in practice, check out our full guide here: <a href="/blog/what-is-strata-management">What is Strata Management?</a></p>
+<h3>Who is Responsible for What in a Strata Scheme?</h3>
+<p>Effective strata property management is built on clear accountability across several key groups. Each stakeholder does their part to keep the building safe, functional, and compliant with NSW laws and regulations.</p>
+<p>The people or groups responsible for managing the strata scheme are:</p>
+<ul>
+<li>Strata manager</li>
+<li>Owners Corporation</li>
+<li>Strata committee</li>
+<li>Building manager</li>
+<li>Lot owners</li>
+</ul>
+<h2>Responsibilities of a Strata Manager</h2>
+<p>According to the Strata Schemes Management Act 2015, a strata manager is appointed to support the Owners Corporation with the administrative, financial, and operational functions of the scheme.</p>
+<p>Their key responsibilities cover:</p>
+<h3>Administrative and Governance Duties</h3>
+<p>Strata managers are in charge of keeping the scheme compliant and functioning efficiently. These duties include maintaining the strata roll, issuing meeting notices, preparing minutes, and supporting the strata committee in understanding its obligations.</p>
+<p>Strata United provides full administrative support through our <a href="/strata-management-services">Strata Management Services</a>, so Owners Corporations in Sydney can stay compliant and well-organised.</p>
+<h3>Financial Management Responsibilities</h3>
+<p>Financial oversight is one of the most important responsibilities of a strata manager. They prepare annual budgets, manage levies, and oversee trust accounts to make sure the capital works fund and administrative fund are maintained properly.</p>
+<p>Strata managers are also in charge of delivering transparent financial reporting, so the Owners Corporation has a clear picture of the scheme’s financial position throughout the year.</p>
+<h3>Repairs and Maintenance Oversight</h3>
+<p>Strata managers coordinate repairs and maintenance for common property. They engage qualified tradespeople, maintain records of completed work, and handle issues promptly in line with legislative obligations.</p>
+<p>They also help committees differentiate between strata responsibilities and repairs that fall to individual lot owners.</p>
+<p>For growing schemes, having more strata managers available can improve response times and support.</p>
+<p>Read more about it here: <a href="/blog/reasons-to-hire-more-strata-mangers">Reasons to Hire More Strata Managers</a></p>
+<h3>Insurance, Reporting, and Compliance</h3>
+<p>Strata managers are also responsible for arranging and building strata insurance, coordinating valuations, guiding the scheme through risk management processors, and ensuring that contractors meet WHS obligations.</p>
+<p>They also assist with mandatory reporting and record-keeping to help the Owners Corporation meet all obligations under NSW strata management laws.</p>
+<h3>Communication and Conflict Resolution</h3>
+<p>Strata managers facilitate clear communication between lot owners, tenants, contractors, and the Owners Corporation. They also support the committee with decision-making and help resolve disputes to maintain a cooperative strata environment.</p>
+<h2>Responsibilities of the Owners Corporation</h2>
+<p>While the strata manager and the strata committee carry out everyday tasks, the Owners Corporation is the main decision-making body within a strata scheme. It holds authority over governance, finances, building upkeep, and legal compliance.</p>
+<h3>What are the Key Decisions Owners Corporations Control?</h3>
+<p>The Owners Corporation oversees major operational and financial decisions, including:</p>
+<ul>
+<li>Setting and approving the annual budget for the administrative fund and capital works fund.</li>
+<li>Issuing levy amounts, approving contributions from lot owners, and ensuring the scheme has sufficient funds.</li>
+<li>Appointing strata managers at a general meeting.</li>
+<li>Approving projects such as improvements to common property or structural repairs.</li>
+<li>Meeting legal and financial obligations that are in line with NSW strata legislation.</li>
+</ul>
+<h3>When Does the Owners Corporation Override the Committee?</h3>
+<p>The Owners Corporation can override the committee on matters that require a collective agreement. This includes:</p>
+<ul>
+<li>Large-scale decisions, such as by-law changes, structural works, or substantial spending.</li>
+<li>Financial approvals for any expenditure that goes beyond the committee’s delegated authority.</li>
+<li>Legal matters that involve the scheme or those that enter into settlement agreements.</li>
+</ul>
+<h2>Responsibilities of the Strata Committee</h2>
+<p>The strata committee handles day-to-day decision making and represents the interests of the scheme between general meetings. This committee is elected by the Owners Corporation.</p>
+<p>The Owners Corporation retains overall authority, but the committee works closely with the strata manager to make timely decisions, maintain operational efficiency, and ensure ongoing compliance.</p>
+<h3>What are the Strata Committee’s Daily Decision-making Responsibilities?</h3>
+<p>The strata committee takes care of routine matters, and this typically includes:</p>
+<ul>
+<li>Minor repair approvals or low-cost maintenance tasks relating to common property.</li>
+<li>Reviewing quotes, comparing scopes of work, and choosing suitable contractors for minor works.</li>
+<li>Enforcing the scheme’s by-laws.</li>
+<li>Working with the strata manager (e.g. providing instructions, raising concerns, and helping coordinate routine operational matters).</li>
+</ul>
+<h3>What are the Limitations of the Strata Committee?</h3>
+<p>The strata committee has the authority to act on day-to-day matters, but it can’t make decisions that impact the financial or legal position of the scheme. These limitations are meant to protect the interests of all owners and maintain compliance under the Strata Schemes Management Act 2015.</p>
+<p>The committee CANNOT:</p>
+<ul>
+<li>Approve high-value expenses, increase levies, or commit the scheme to large-scale projects.</li>
+<li>Create, repeal, or amend by-laws.</li>
+<li>Sell common property. Any proposal to sell, transfer, or redevelop common property requires a formal vote by the Owners Corporation.</li>
+</ul>
+<h2>Responsibilities of the Building Manager</h2>
+<p>A building manager is also sometimes referred to as a facilities manager or a caretaker, and they take care of the physical operations of the building. They keep the property safe, functional, and well-maintained.</p>
+<p>In larger schemes across Sydney and Parramatta, the building manager is an important part of the broader strata property management structure.</p>
+<p>Here are the building manager’s duties:</p>
+<ul>
+<li>Overseeing general building operations and ensuring common areas are clean, safe, and functional.</li>
+<li>Managing access systems, including keys, fobs, and visitor access.</li>
+<li>Supervising trades onsite, confirming scopes of work, monitoring progress, and reporting issues to the strata manager or the committee.</li>
+<li>Conducting regular site inspections to identify hazards, maintenance needs, and WHS compliance risks.</li>
+</ul>
+<h3>How the Building Manager Works with the Strata Manager</h3>
+<p>The building manager and strata manager work together, but they have distinct responsibilities. Below is a clear comparison of responsibilities between strata managers and building managers in NSW.</p>
+<h2>Responsibilities of Lot Owners in a Strata Scheme</h2>
+<p>While strata managers and building managers handle property admin and onsite operations, lot owners are the people responsible for the upkeep and compliance of their individual lots.</p>
+<p>Understanding these obligations helps avoid disputes and reduces costs for the Owners Corporation.</p>
+<p>Here are common maintenance and repair obligations for lot owners:</p>
+<ul>
+<li><p>Internal repairs and maintenance in their individual lot — This includes wall, flooring, internal plumbing, and electrical systems that exclusively service the unit. If damage occurs inside the lot, the owner (not the strata manager) is responsible for arranging and paying for those repairs.</p>
+</li>
+<li><p>Fixtures and fittings — The owner is responsible for items like kitchen cabinetry, appliances, light fittings, taps, vanities, internal doors, and more. Regular maintenance prevents issues that could affect neighbouring lots.</p>
+</li>
+<li><p>Clarifying who gets to take responsibility in strata — When issues sit close to the boundary line, the question of “Who is responsible for repairs?” gets raised often. The general rule is: if it’s common property, the Owners Corporation is responsible, but if it’s inside the lot, that’s the lot owner’s responsibility.</p>
+</li>
+</ul>
+<p>When in doubt, always review the strata plan or request clarification from the strata manager.</p>
+<h2>Common Misunderstandings About Roles in Strata</h2>
+<p>Owners and tenants confuse the responsibilities of strata managers, building managers, and property managers all the time. Below are clarified distinctions about who does what to prevent disputes within a scheme.</p>
+<h3>Strata Manager vs Building Manager</h3>
+<table><colgroup><col> <col></colgroup><tbody><tr><td><p><strong>Strata Manager</strong></p></td><td><p><strong>Building Manager</strong></p></td></tr><tr><td><ul><li>Appointed under the Strata Schemes Management Act 2015</li><li>Focuses on administration, compliance, meetings, and financial management.</li><li>Manages levies, budgets, insurance, records, and governance.</li></ul><br><ul><li>Supports Owners Corporation and the strata committee</li><li>Offsite role with periodic visits</li></ul></td><td><ul><li>Engaged by the Owners Corporation for onsite operational duties.</li><li>Focuses on day-to-day building operations.</li></ul><br><ul><li>Handles site inspections, cleaning coordination, access control, and minor works.</li><li>Works directly with contractors and tradies onsite.</li><li>Onsite role, performing daily supervision</li></ul></td></tr></tbody></table><h3>Strata Manager vs Property Manager</h3>
+<table><colgroup><col> <col></colgroup><tbody><tr><td><p><strong>Strata Manager</strong></p></td><td><p><strong>Property Manager (Real Estate)</strong></p></td></tr><tr><td><ul><li>Works for the Owners Corporation.</li><li>Manages common property, compliance, meetings, insurance, and strata records.</li><li>Oversees entire building operations.</li></ul><br><ul><li>Deals with building-wide repairs.</li></ul></td><td><ul><li>Works for the individual lot owner.</li><li>Manages leasing, rent collection, tenant issues, and individual unit maintenance.</li><li>Oversees a single lot or portfolio of rental properties.</li><li>Deals with repairs inside the lot.</li></ul></td></tr></tbody></table><h3>Common Property vs Lot Property Confusion</h3>
+<p>Misunderstanding who is reponsible for what area of the property is one of the most common issues in NSW strata schemes. The Strata Schemes Management Act 2015 provides guidance, but the simplest rule is:</p>
+<ul>
+<li><p>Common Property — owned collectively by the Owners Corporation. Examples include windows, slabs, external walls, boundary walls, roofing, foyers, fire stairs, and shared plumbing.</p>
+</li>
+<li><p>Lot Property — owned by the individual lot owner. This includes internal walls, fixtures, cabinetry, flooring, internal plumbing, and electricals that service only the unit.</p>
+</li>
+</ul>
+<h2>How Strata United Supports Strata Management in Sydney</h2>
+<p><a href="/">Strata United</a> offers professional strata property management services across Sydney and Parramatta. The team helps Owners Corporations maintain compliant, well-run, and financially secure strata schemes.</p>
+<p>Whether you’re reviewing your current provider or looking for a more proactive approach to management, our team is here to help.</p>
+<p>Get in touch with us:</p>
+<p><a href="/contact-us">Contact Strata United</a></p>
+a:X
+f:X
+f:C
+0:{"buildId":"aq9YhRsqn70XW5qR2-pGk","data":[{"rsc":["$","$1","c",{"children":[[["$","article",null,{"children":[["$","header",null,{"className":"hero","children":["$","div",null,{"className":"container","children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"breadcrumbs","children":["$","ol",null,{"role":"list","children":[["$","li","/-0",{"children":[["$","$L2",null,{"href":"/","children":"Home"}],["$","svg",null,{"className":"icon breadcrumbs__separator","width":16,"height":16,"viewBox":"0 -960 960 960","fill":"currentColor","focusable":"false","aria-hidden":true,"children":[null,["$","path",null,{"d":"M536.92-480.62 358.77-659.15q-7.08-6.7-6.77-15.81.31-9.12 7.39-16 7.07-6.89 16.3-6.89t16.31 7.08l189.92 189.92q4.62 4.62 6.81 9.43 2.19 4.8 2.19 10.61T588.73-470q-2.19 5-6.81 9.62L391.38-269.85q-6.69 6.7-15.8 6.58-9.12-.12-16.19-7.19-7.08-7.08-7.08-16.31 0-9.23 7.08-16.31l177.53-177.54Z"}]]}]]}],["$","li","/blog-1",{"children":[["$","$L2",null,{"href":"/blog","children":"Blog"}],["$","svg",null,{"className":"icon breadcrumbs__separator","width":16,"height":16,"viewBox":"0 -960 960 960","fill":"currentColor","focusable":"false","aria-hidden":true,"children":[null,["$","path",null,{"d":"M536.92-480.62 358.77-659.15q-7.08-6.7-6.77-15.81.31-9.12 7.39-16 7.07-6.89 16.3-6.89t16.31 7.08l189.92 189.92q4.62 4.62 6.81 9.43 2.19 4.8 2.19 10.61T588.73-470q-2.19 5-6.81 9.62L391.38-269.85q-6.69 6.7-15.8 6.58-9.12-.12-16.19-7.19-7.08-7.08-7.08-16.31 0-9.23 7.08-16.31l177.53-177.54Z"}]]}]]}],["$","li","/blog/who-is-responsible-in-strata-a-helpful-guide-to-understanding-nsw-strata-management-2",{"children":["$","span",null,{"aria-current":"page","children":"Who is Responsible in Strata? A Helpful Guide to Understanding NSW Strata Management"}]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.strataunited.com.au\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.strataunited.com.au/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Who is Responsible in Strata? A Helpful Guide to Understanding NSW Strata Management\",\"item\":\"https://www.strataunited.com.au/blog/who-is-responsible-in-strata-a-helpful-guide-to-understanding-nsw-strata-management\"}]}"}}]],["$","div",null,{"className":"post-header","children":[["$","p",null,{"className":"eyebrow","children":"By-laws and compliance"}],["$","h1",null,{"className":"d1","children":"Who is Responsible in Strata? A Helpful Guide to Understanding NSW Strata Management"}],null,["$","p",null,{"className":"post-meta","children":[["$","time",null,{"dateTime":"2026-01-30","children":"30 January 2026"}],["$","span",null,{"children":[8," min read"]}],["$","span",null,{"children":"By Strata United"}]]}]]}]]}]}],["$","div",null,{"className":"section section--joined","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"post-layout","children":[["$","div",null,{"className":"post-layout__body prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}]}]}]]}],"$L5","$L6","$L7"],null,"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+14:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"ViewportBoundary"]
+18:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"MetadataBoundary"]
+19:I[27201,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"IconMark"]
+1a:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"default"]
+1b:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0a3ch1mdb0jid.js"],"default"]
+4:["$","aside",null,{"className":"post-layout__aside","aria-label":"Where to next","children":["$","div",null,{"className":"post-aside","children":[["$","p",null,{"className":"eyebrow","children":"Where to next"}],["$","$L2",null,{"href":"/strata-management-services","className":"arrow-link","children":[["$","span",null,{"children":"By-laws and compliance in our schedule of services"}],["$","svg",null,{"className":"icon","width":20,"height":20,"viewBox":"0 -960 960 960","fill":"currentColor","focusable":"false","aria-hidden":true,"children":[null,["$","path",null,{"d":"M693.69-457.31h-491q-9.91 0-16.3-6.39-6.39-6.39-6.39-16.31 0-9.91 6.39-16.3 6.39-6.38 16.3-6.38h491L464-732q-6.31-6.76-6.69-15.84-.39-9.08 6.69-15.99 7.08-7.25 16-7.25t16 7.08l263.85 263.85q4.53 4.53 6.73 9.39 2.19 4.86 2.19 10.81t-2.19 10.76q-2.2 4.81-6.73 9.34L496-196q-6.69 6.69-15.73 6.88-9.04.2-16.27-6.88-7.08-7.23-7.08-16.08 0-8.84 7.08-15.54l229.69-229.69Z"}]]}]]}],["$","$L2",null,{"href":"/make-the-switch","className":"arrow-link","children":[["$","span",null,{"children":"How to change strata managers"}],["$","svg",null,{"className":"icon","width":20,"height":20,"viewBox":"0 -960 960 960","fill":"currentColor","focusable":"false","aria-hidden":true,"children":[null,["$","path",null,{"d":"M693.69-457.31h-491q-9.91 0-16.3-6.39-6.39-6.39-6.39-16.31 0-9.91 6.39-16.3 6.39-6.38 16.3-6.38h491L464-732q-6.31-6.76-6.69-15.84-.39-9.08 6.69-15.99 7.08-7.25 16-7.25t16 7.08l263.85 263.85q4.53 4.53 6.73 9.39 2.19 4.86 2.19 10.81t-2.19 10.76q-2.2 4.81-6.73 9.34L496-196q-6.69 6.69-15.73 6.88-9.04.2-16.27-6.88-7.08-7.23-7.08-16.08 0-8.84 7.08-15.54l229.69-229.69Z"}]]}]]}]]}]}]
+5:["$","section",null,{"className":"section section--sand","aria-labelledby":"related-posts","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"section-head","data-reveal":true,"children":[["$","p",null,{"className":"eyebrow","children":"Keep reading"}],["$","h2",null,{"id":"related-posts","className":"d2","children":"Related posts"}],null,"$undefined"]}],["$","ul",null,{"role":"list","className":"post-grid","children":[["$","li","what-is-an-owners-corporation",{"children":["$","$L2",null,{"href":"/blog/what-is-an-owners-corporation","className":"post-card","children":[["$","span",null,{"className":"post-card__category","children":"By-laws and compliance"}],["$","h3",null,{"className":"post-card__title","children":"What Is an Owners Corporation, and What Do They Do?"}],["$","span",null,{"className":"post-card__excerpt","children":"Find out what an owners corporation is, what it does, and why it matters for strata schemes. A guide for lot owners and strata committees."}],["$","span",null,{"className":"post-card__meta","children":[["$","time",null,{"dateTime":"2026-04-20","children":"20 April 2026"}]," · ",5," min read"]}]]}]}],["$","li","annual-fire-safety-statements-certification-requirements",{"children":["$","$L2",null,{"href":"/blog/annual-fire-safety-statements-certification-requirements","className":"post-card","children":[["$","span",null,{"className":"post-card__category","children":"By-laws and compliance"}],["$","h3",null,{"className":"post-card__title","children":"Annual Fire Safety Statements: Certification Requirements"}],["$","span",null,{"className":"post-card__excerpt","children":"Learn the annual fire safety statement (AFSS) requirements in NSW, including certification, compliance deadlines, penalties, and strata responsibilities."}],["$","span",null,{"className":"post-card__meta","children":[["$","time",null,{"dateTime":"2026-02-25","children":"25 February 2026"}]," · ",6," min read"]}]]}]}],["$","li","nsw-strata-legislation-and-regulations",{"children":["$","$L2",null,{"href":"/blog/nsw-strata-legislation-and-regulations","className":"post-card","children":[["$","span",null,{"className":"post-card__category","children":"By-laws and compliance"}],["$","h3",null,{"className":"post-card__title","children":"NSW Strata Legislation & Regulations"}],["$","span",null,{"className":"post-card__excerpt","children":"Understand NSW strata legislation and regulations, including the Strata Schemes Management Act 2015, compliance duties, and committee responsibilities."}],["$","span",null,{"className":"post-card__meta","children":[["$","time",null,{"dateTime":"2026-02-25","children":"25 February 2026"}]," · ",7," min read"]}]]}]}]]}]]}]}]
+6:["$","section",null,{"className":"section section--ink on-dark cta-band","aria-labelledby":"cta-default","children":["$","div",null,{"className":"container cta-band__inner","data-reveal":true,"children":[["$","div",null,{"className":"cta-band__copy","children":[["$","h2",null,{"id":"cta-default","className":"d2","children":"Let’s talk about your building"}],["$","p",null,{"className":"lead","children":"Tell us the address and the number of lots and we will come back within one business day with a flat fee proposal and a full schedule of services."}]]}],["$","div",null,{"className":"cluster cta-band__actions","children":[["$","$L2",null,{"href":"/request-a-quote","className":"btn btn--primary","children":[null,"Request a quote",null]}],["$","a",null,{"href":"tel:1300445900","className":"cta-band__phone","children":[["$","svg",null,{"className":"icon","width":20,"height":20,"viewBox":"0 -960 960 960","fill":"currentColor","focusable":"false","aria-hidden":true,"children":[null,["$","path",null,{"d":"M775.38-140Q669-140 556-193.69q-113-53.7-210.81-151.7-97.8-98-151.5-210.8Q140-669 140-775.38q0-19.12 12.64-31.87T184.23-820h114.13q15.64 0 26.41 10.19 10.77 10.2 15.15 26.35l23.85 107.18q2.08 15.13-1 27.2-3.08 12.08-11.69 20.31l-94.39 91.92q26.77 45.93 56.54 85.08t64.39 73.54q37.38 38.38 79.53 70.08 42.16 31.69 90.24 57.61l90.76-93.38q10-11 22.39-14.81 12.39-3.81 25.84-1.81l97.08 21.39q16.15 3.61 26.35 16.26Q820-310.24 820-294.23v110q0 18.95-12.75 31.59T775.38-140ZM234-578l82.54-80.08q1.54-1.53 2.11-4.23.58-2.69.2-5L297-768.46q-.38-3.08-2.5-4.62-2.11-1.53-5.19-1.53h-98.54q-2.31 0-3.85 1.53-1.53 1.54-1.53 3.85.84 41.62 12.92 88.69Q210.39-633.46 234-578Zm356.31 349.15q41 20.16 89.77 31.39 48.77 11.23 89.15 12.46 2.31 0 3.85-1.54 1.53-1.54 1.53-3.85v-98.15q0-3.08-1.53-5.19-1.54-2.12-4.62-2.5l-90.69-18.69q-2.31-.39-4.04.19-1.73.58-3.65 2.11l-79.77 83.77ZM234-578Zm356.31 349.15Z"}]]}],["$","span",null,{"children":["or call ",["$","strong",null,{"children":"1300 445 900"}]]}]]}]]}]]}]}]
+7:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Who is Responsible in Strata? A Helpful Guide to Understanding NSW Strata Management\",\"description\":\"Learn who manages a strata property in NSW. Clear breakdown of strata manager, Owners Corporation, committee, and building manager responsibilities.\",\"url\":\"https://www.strataunited.com.au/blog/who-is-responsible-in-strata-a-helpful-guide-to-understanding-nsw-strata-management\",\"mainEntityOfPage\":\"https://www.strataunited.com.au/blog/who-is-responsible-in-strata-a-helpful-guide-to-understanding-nsw-strata-management\",\"datePublished\":\"2026-01-30\",\"inLanguage\":\"en-AU\",\"image\":\"https://www.strataunited.com.au/og-image-1200x630.jpg\",\"author\":{\"@id\":\"https://www.strataunited.com.au/#organization\"},\"publisher\":{\"@id\":\"https://www.strataunited.com.au/#organization\"}}"}}]
+8:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+b:["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#041D3C"}]]}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"A Helpful Guide to Understanding NSW Strata Management"}],["$","meta","1",{"name":"description","content":"Learn who manages a strata property in NSW. Clear breakdown of strata manager, Owners Corporation, committee, and building manager responsibilities."}],["$","meta","2",{"name":"application-name","content":"Strata United"}],["$","link","3",{"rel":"manifest","href":"/site.webmanifest"}],["$","link","4",{"rel":"canonical","href":"https://www.strataunited.com.au/blog/who-is-responsible-in-strata-a-helpful-guide-to-understanding-nsw-strata-management/"}],["$","meta","5",{"property":"og:title","content":"A Helpful Guide to Understanding NSW Strata Management"}],["$","meta","6",{"property":"og:description","content":"Learn who manages a strata property in NSW. Clear breakdown of strata manager, Owners Corporation, committee, and building manager responsibilities."}],["$","meta","7",{"property":"og:url","content":"https://www.strataunited.com.au/blog/who-is-responsible-in-strata-a-helpful-guide-to-understanding-nsw-strata-management/"}],["$","meta","8",{"property":"og:site_name","content":"Strata United"}],["$","meta","9",{"property":"og:locale","content":"en_AU"}],["$","meta","10",{"property":"og:image","content":"https://www.strataunited.com.au/og-image-1200x630.jpg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Strata United"}],["$","meta","14",{"property":"og:type","content":"article"}],["$","meta","15",{"property":"article:published_time","content":"2026-01-30"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"A Helpful Guide to Understanding NSW Strata Management"}],["$","meta","18",{"name":"twitter:description","content":"Learn who manages a strata property in NSW. Clear breakdown of strata manager, Owners Corporation, committee, and building manager responsibilities."}],["$","meta","19",{"name":"twitter:image","content":"https://www.strataunited.com.au/og-image-1200x630.jpg"}],["$","link","20",{"rel":"icon","href":"/favicon.ico","sizes":"32x32"}],["$","link","21",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link","22",{"rel":"apple-touch-icon","href":"/apple-touch-icon-180.png"}],["$","$L19","23",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+13:true
+16:null
+a:300
+a:C
+12:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"
